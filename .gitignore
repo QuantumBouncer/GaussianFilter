@@ -1,0 +1,6 @@
+.vs/
+Debug*
+x64*
+GaussianFilter/Debug*
+GaussianFilter/x64*
+*.jpg
